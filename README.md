@@ -8,3 +8,10 @@ Victor Fernandes Cunha, 47 anni, vive a Salvador, fa parte di una compagnia che 
 
 # Personas 3
 Xia He Sung, 33 anni, è nato a Shanghai, si è strasferito a Roma per studiare all'Accademia di Belle Arti. Da quando è piccolo è appassionato di scultura, per questo è alla ricerca di un sito che gli dia dei suggerimenti sulle tecniche per migliorare e vuole conoscere chi come lui ha questa passione.
+
+
+# Dimensionamento 
+Questo sito offre la possibilità agli utenti di caricare le proprie opere (quadri, sculture, fotografie, etc.), di ricevere suggerimenti dulle tecniche e di conoscere nuovi artisti.
+
+- Persone stimate l'anno: 100.000
+- Persone stimate al giorno: 250/270
