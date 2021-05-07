@@ -1,7 +1,7 @@
 # ArtisticMood
 
 # Personas 1
-Sofia Pascucci, 23 anni, è nata a Firenze, si è trasferita a Milano per studiare fotografia all'Istituto Italiano di Fotografia. Vorrebbe la possibilità di farsi conoscere e mostrare le sue fotografie, riuscendo anche a trovare ispirazione da altri artisti. Ha quindi bisogno di un sito che riesca a mostrare le sue fotografie a quante più persone possibile e che allo stesso tempo gli fornisca suggerimenti utili per migliorare come artista.
+Sofia Pascucci, 23 anni, è nata a Firenze, si è trasferita a Milano per studiare fotografia all'Istituto Italiano di Fotografia. Vorrebbe avere la possibilità di farsi conoscere e mostrare le sue fotografie, riuscendo anche a trovare ispirazione da altri artisti. Ha quindi bisogno di un sito che riesca a mostrare le sue fotografie a quante più persone possibile e che allo stesso tempo gli fornisca suggerimenti utili per migliorare come artista.
 
 # Personas 2
 Victor Fernandes Cunha, 47 anni, vive a Salvador, fa parte di una compagnia che in maniera autonoma compra e vende opere d'arte (art dealer) ed è un appassionato di pittura. Sta cercando nuovi artisti per comprare delle opere. Ha quindi bisogno di un sito che gli dia la possibilità di scoprire nuovi talenti, con nuove opere da acquistare e rivendere.
