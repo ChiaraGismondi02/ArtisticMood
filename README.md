@@ -7,7 +7,7 @@ Sofia Pascucci, 23 anni, è nata a Firenze, è una sognatrice, timida e riservat
 Victor Fernandes Cunha, 47 anni, vive a Salvador, è testardo, allegro e socievole, è sposato e ha due figli, è appassionato di pittura. Sta cercando un sito che riesca a dargli consigli utili per migliorare nelle tecniche e nell'utilizzo dei colori, lavora su diversi stili di pittura.
 
 # Personas 3
-Xia He Sung, 33 anni, è nato a Shanghai, è determinato, estroverso e disponibile, ha una compagna e si è strasferito a Roma per studiare all'Accademia di Belle Arti. Da quando è piccolo è appassionato di scultura, per questo è alla ricerca di un sito che gli dia dei suggerimenti sulle tecniche per migliorare in questo ambito.
+Xia He Sung, 33 anni, è nato a Shanghai, è determinato, estroverso e disponibile, ha una compagna e si è trasferito a Roma per studiare all'Accademia di Belle Arti. Da quando è piccolo è appassionato di scultura, per questo è alla ricerca di un sito che gli dia dei suggerimenti sulle tecniche per migliorare in questo ambito.
 
 
 # Dimensionamento 
