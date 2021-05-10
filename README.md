@@ -11,7 +11,7 @@ Xia He Sung, 33 anni, è nato a Shanghai, è determinato, estroverso e disponibi
 
 
 # Dimensionamento 
-Questo sito offre la possibilità agli utenti di caricare le proprie opere (quadri, sculture, fotografie, etc.), di prendere ispirazione da altri artisti e di ricevere suggerimenti sulle tecniche.
+Questo sito offre la possibilità agli utenti di caricare le proprie opere (quadri, sculture, fotografie, etc.), di prendere ispirazione da altri artisti e di ricevere suggerimenti utili per migliorare le tecniche.
 
 - Persone stimate l'anno: 600.000
 - Persone stimate al giorno: 1600/1700
