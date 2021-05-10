@@ -15,12 +15,3 @@ Questo sito offre la possibilità agli utenti di caricare le proprie opere (quad
 
 - Persone stimate l'anno: 100.000
 - Persone stimate al giorno: 250/270
-
-- Italia
-   -
-- Cina
-   -
-- Stati Uniti
-   -
-- Brasile
-   -
