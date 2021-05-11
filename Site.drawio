@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T15:25:51.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="R1274jg6uWBqe6R0WIwa" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T15:28:51.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="1QKywvgIMM3EZZOe-NBY" version="14.6.11" type="github">
   <diagram id="YqBdRVbUH3X9ktw2vI_X" name="Page-1">
-    <mxGraphModel dx="413" dy="1371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="347" dy="1339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,13 +119,13 @@
           <mxGeometry x="293.25" y="-425" width="6" height="320" as="geometry" />
         </mxCell>
         <mxCell id="K1Y7uYMDMErFbE7dxKjb-39" value="&lt;font style=&quot;font-size: 7px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&amp;nbsp;&lt;/font&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=center;fontSize=7;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="188.25" y="-194" width="100" height="50" as="geometry" />
+          <mxGeometry x="188.25" y="-184" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K1Y7uYMDMErFbE7dxKjb-40" value="&lt;font style=&quot;font-size: 7px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&amp;nbsp;&lt;/font&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=center;fontSize=7;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="188.25" y="-370" width="100" height="50" as="geometry" />
+          <mxGeometry x="187.5" y="-360" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K1Y7uYMDMErFbE7dxKjb-41" value="&lt;font style=&quot;font-size: 7px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&amp;nbsp;&lt;/font&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=center;fontSize=7;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="188.25" y="-280" width="100" height="50" as="geometry" />
+          <mxGeometry x="188.25" y="-270" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K1Y7uYMDMErFbE7dxKjb-42" value="&lt;font style=&quot;font-size: 14px&quot;&gt;A seguito della registrazione, l&#39;utente può caricare &lt;br&gt;la foto di una propria opera specificandone la tipologia&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="420" y="-500" width="350" height="30" as="geometry" />
@@ -159,6 +159,15 @@
         </mxCell>
         <mxCell id="B12CX4f54RW9JIWW8Okp-9" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Pascucci&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
           <mxGeometry x="600" y="-885" width="70" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="B12CX4f54RW9JIWW8Okp-10" value="Work name" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="-380" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B12CX4f54RW9JIWW8Okp-11" value="Work name" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="-290" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B12CX4f54RW9JIWW8Okp-12" value="Work name" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="203.25" y="-204" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
