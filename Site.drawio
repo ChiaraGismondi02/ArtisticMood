@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T14:06:36.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="MJK39YpBdpzQWcGeC-9V" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T14:11:01.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="5AGhS9wDC48nwZIj1Xgv" version="14.6.11" type="github">
   <diagram id="YqBdRVbUH3X9ktw2vI_X" name="Page-1">
-    <mxGraphModel dx="1447" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry x="177.5" y="-300" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K1Y7uYMDMErFbE7dxKjb-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Creazione profilo utente con informazioni&lt;br&gt;che ne delineano la personalità&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="75" y="-10" width="270" height="30" as="geometry" />
+          <mxGeometry x="75" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K1Y7uYMDMErFbE7dxKjb-21" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -69,8 +69,8 @@
         </mxCell>
         <mxCell id="K1Y7uYMDMErFbE7dxKjb-23" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="440" as="sourcePoint" />
-            <mxPoint x="550" y="490" as="targetPoint" />
+            <mxPoint x="549.5" y="450" as="sourcePoint" />
+            <mxPoint x="549.5" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K1Y7uYMDMErFbE7dxKjb-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/multimedia-75/512/multimedia-49-128.png" parent="1" vertex="1">
@@ -128,10 +128,10 @@
           <mxGeometry x="530" y="740" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K1Y7uYMDMErFbE7dxKjb-42" value="&lt;font style=&quot;font-size: 14px&quot;&gt;A seguito della registrazione, l&#39;utente può caricare &lt;br&gt;la foto di una propria opera specificandone la tipologia&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="385" y="-10" width="350" height="30" as="geometry" />
+          <mxGeometry x="385" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K1Y7uYMDMErFbE7dxKjb-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Il sito mostra una lista di opere simili da cui prendere ispirazione, &lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;insieme a suggerimenti sulle tecniche utilizzate&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="350" y="510" width="420" height="30" as="geometry" />
+          <mxGeometry x="350" y="520" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B12CX4f54RW9JIWW8Okp-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
           <mxGeometry x="110" y="-510" width="200" height="390" as="geometry" />
@@ -150,8 +150,8 @@
         </mxCell>
         <mxCell id="B12CX4f54RW9JIWW8Okp-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="-90" as="sourcePoint" />
-            <mxPoint x="220" y="-30" as="targetPoint" />
+            <mxPoint x="219" y="-80" as="sourcePoint" />
+            <mxPoint x="219" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
