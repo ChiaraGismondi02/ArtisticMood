@@ -13,16 +13,16 @@ Xia He Sung, 33 anni, è nato a Shanghai, è determinato, estroverso e disponibi
 # Dimensionamento 
 Questo sito offre la possibilità agli utenti di caricare le proprie opere (quadri, sculture, fotografie, etc.), di prendere ispirazione da altri artisti e di ricevere suggerimenti utili per migliorare le tecniche.
 
-Italia: 3,6% dei lavoratori occupati nel settore della cultura (EUROSTAT: 8,7 MILIONI LE PERSONE OCCUPATE NEL SETTORE CULTURA NEL 2017)
+- Italia: 3,6% dei lavoratori occupati nel settore della cultura (EUROSTAT: 8,7 MILIONI LE PERSONE OCCUPATE NEL SETTORE CULTURA NEL 2017)
   - 1,8% dei lavoratori sono scultori, pittori e fotografi
 
   
 
-Brasile: 3,1% dei lavoratori occupati nel settore della cultura
+- Brasile: 3,1% dei lavoratori occupati nel settore della cultura
 
 
-Cina: dei lavoratori occupati nel settore della cultura
+- Cina: dei lavoratori occupati nel settore della cultura
 
 
-Stati Uniti: 4,7% dei lavoratori occupati nel settore della cultura
+- Stati Uniti: 4,7% dei lavoratori occupati nel settore della cultura
   - 1,2% 
