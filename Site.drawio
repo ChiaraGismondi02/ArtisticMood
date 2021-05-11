@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T15:30:49.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="JiK-Zd1lc0QANmpUrpLP" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T20:58:30.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="IQddSQrXrqVVaxMa0JLS" version="14.6.11" type="github">
   <diagram id="YqBdRVbUH3X9ktw2vI_X" name="Page-1">
     <mxGraphModel dx="868" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,14 +76,8 @@
         <mxCell id="K1Y7uYMDMErFbE7dxKjb-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/multimedia-75/512/multimedia-49-128.png" parent="1" vertex="1">
           <mxGeometry x="507.5" y="-422.5" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="K1Y7uYMDMErFbE7dxKjb-25" value="TAKE A PICTURE &lt;br&gt;OF YOUR WORK" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="565" y="-410" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="K1Y7uYMDMErFbE7dxKjb-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="-333.75" width="120" height="112.5" as="geometry" />
-        </mxCell>
-        <mxCell id="K1Y7uYMDMErFbE7dxKjb-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="575" y="-180" width="30" height="30" as="geometry" />
+        <mxCell id="K1Y7uYMDMErFbE7dxKjb-25" value="UPLOAD A PHOTO&lt;br&gt;OF YOUR WORK" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="-410" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K1Y7uYMDMErFbE7dxKjb-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-image-128.png" parent="1" vertex="1">
           <mxGeometry x="120.75" y="-380" width="70" height="70" as="geometry" />
