@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T20:58:30.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="IQddSQrXrqVVaxMa0JLS" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T21:05:38.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="hzSmMT_6mM5fhGHO1LDQ" version="14.6.11" type="github">
   <diagram id="YqBdRVbUH3X9ktw2vI_X" name="Page-1">
     <mxGraphModel dx="868" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,8 +121,8 @@
         <mxCell id="K1Y7uYMDMErFbE7dxKjb-41" value="&lt;font style=&quot;font-size: 7px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&amp;nbsp;&lt;/font&gt;" style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=center;fontSize=7;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="188.25" y="-270" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="K1Y7uYMDMErFbE7dxKjb-42" value="&lt;font style=&quot;font-size: 14px&quot;&gt;A seguito della registrazione, l&#39;utente può caricare &lt;br&gt;la foto di una propria opera specificandone la tipologia&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="420" y="-500" width="350" height="30" as="geometry" />
+        <mxCell id="K1Y7uYMDMErFbE7dxKjb-42" value="&lt;font style=&quot;font-size: 14px&quot;&gt;A seguito della registrazione, l&#39;utente &lt;br&gt;può caricare la foto di una propria opera&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="465" y="-500" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K1Y7uYMDMErFbE7dxKjb-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Il sito mostra una lista di opere simili da cui prendere &lt;br&gt;ispirazione,&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;insieme a suggerimenti sulle tecniche utilizzate&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="30" y="-500" width="380" height="30" as="geometry" />
