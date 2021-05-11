@@ -26,4 +26,5 @@ Questo sito offre la possibilità agli utenti di caricare le proprie opere (quad
 
 
 - Stati Uniti: 4,7% dei lavoratori occupati nel settore della cultura
-  - 1,2% 
+  - 1,2% dei lavoratori sono scultori, pittori e fotografi
+
