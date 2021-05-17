@@ -30,7 +30,6 @@ Questo sito offre la possibilità agli utenti di caricare le proprie opere (quad
 
 ## Costo
 Stato prova gratuita: 250,0€ e 90 gg
-
 https://cloud.google.com/storage/pricing/?hl=it
 
 # SITE CODE
