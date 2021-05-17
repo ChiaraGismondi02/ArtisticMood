@@ -17,16 +17,19 @@ Questo sito offre la possibilità agli utenti di caricare le proprie opere (quad
 (EUROSTAT: 8,7 MILIONI LE PERSONE OCCUPATE NEL SETTORE CULTURA NEL 2017)
   - 1,8% dei lavoratori sono scultori, pittori e fotografi
 
-  
+- Brasile: 4,0% dei lavoratori occupati nel settore della cultura
+  - 1,9% dei lavoratori sono scultori, pittori e fotografi
 
-- Brasile: 3,1% dei lavoratori occupati nel settore della cultura
+- Cina: 6,2% dei lavoratori occupati nel settore della cultura
+  - 3,4% dei lavoratori sono scultori, pittori e fotografi
 
+- Stati Uniti: 4,9% dei lavoratori occupati nel settore della cultura
+  - 2,2% dei lavoratori sono scultori, pittori e fotografi
 
-- Cina: dei lavoratori occupati nel settore della cultura
+# Costo
+Stato prova gratuita: 250,0€ e 90 gg
 
-
-- Stati Uniti: 4,7% dei lavoratori occupati nel settore della cultura
-  - 1,2% dei lavoratori sono scultori, pittori e fotografi
+https://cloud.google.com/storage/pricing/?hl=it
 
 # SITE CODE
 [https://replit.com/@ChiaraGismondi/ArtisticMood#index.html]
