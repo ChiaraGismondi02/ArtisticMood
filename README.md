@@ -10,7 +10,9 @@ Victor Fernandes Cunha, 47 anni, vive a Salvador, è testardo, allegro e socievo
 Xia He Sung, 33 anni, è nato a Shanghai, è determinato, estroverso e disponibile, ha una compagna e si è trasferito a Roma per studiare all'Accademia di Belle Arti. Da quando è piccolo è appassionato di scultura, per questo è alla ricerca di un sito che gli dia dei suggerimenti sulle tecniche per migliorare in questo ambito.
 
 
-# Dimensionamento 
+# Dimensionamento
+
+## Numero utenti stimato
 Questo sito offre la possibilità agli utenti di caricare le proprie opere (quadri, sculture, fotografie, etc.), di prendere ispirazione da altri artisti e di ricevere suggerimenti utili per migliorare le tecniche.
 
 - Italia: 3,6% dei lavoratori occupati nel settore della cultura 
@@ -26,7 +28,7 @@ Questo sito offre la possibilità agli utenti di caricare le proprie opere (quad
 - Stati Uniti: 4,9% dei lavoratori occupati nel settore della cultura
   - 2,2% dei lavoratori sono scultori, pittori e fotografi
 
-# Costo
+## Costo
 Stato prova gratuita: 250,0€ e 90 gg
 
 https://cloud.google.com/storage/pricing/?hl=it
