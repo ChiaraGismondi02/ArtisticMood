@@ -33,5 +33,7 @@ Stato prova gratuita: 250,0€ e 90 gg
 https://cloud.google.com/storage/pricing/?hl=it
 
 # SITE CODE
-[https://replit.com/@ChiaraGismondi/ArtisticMood#index.html]
+PAGINA STATICA: https://replit.com/@ChiaraGismondi/Site#style.css
+PAGINA DINAMICA: https://replit.com/@ChiaraGismondi/GalleriaVirtuale-PHPWebServer#index.html
+
 
