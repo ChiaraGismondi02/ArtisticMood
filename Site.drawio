@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T17:02:39.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="KMcsyz3QMSramGvvaaD3" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T15:16:41.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="jPSg8yuaM_Zp7JojpN3H" version="14.7.0" type="github">
   <diagram id="YqBdRVbUH3X9ktw2vI_X" name="Page-1">
     <mxGraphModel dx="868" dy="2820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
         <mxCell id="KZr8DAslHR0AdiMjEYYa-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" parent="1" vertex="1">
           <mxGeometry x="138" y="-500" width="551" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="KZr8DAslHR0AdiMjEYYa-6" value="Page 4" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="KZr8DAslHR0AdiMjEYYa-5" vertex="1">
+        <mxCell id="KZr8DAslHR0AdiMjEYYa-6" value="YourWork" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="KZr8DAslHR0AdiMjEYYa-5" vertex="1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KZr8DAslHR0AdiMjEYYa-7" value="https://www.artisticmood.it" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="KZr8DAslHR0AdiMjEYYa-5" vertex="1">
@@ -157,7 +157,7 @@
         <mxCell id="KZr8DAslHR0AdiMjEYYa-21" value="&lt;font style=&quot;font-size: 16px&quot;&gt;ego.jpg&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KZr8DAslHR0AdiMjEYYa-5" vertex="1">
           <mxGeometry x="272" y="230" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K2Y629vfr9IU5L0JVaiB-1" value="SEARCH" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=10;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="KZr8DAslHR0AdiMjEYYa-5">
+        <mxCell id="K2Y629vfr9IU5L0JVaiB-1" value="SEARCH" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=10;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="KZr8DAslHR0AdiMjEYYa-5" vertex="1">
           <mxGeometry x="362" y="310" width="75" height="23" as="geometry" />
         </mxCell>
         <mxCell id="KZr8DAslHR0AdiMjEYYa-22" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Specificare la tipologia di opera inserita&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
