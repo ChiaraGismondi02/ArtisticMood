@@ -36,4 +36,5 @@ https://cloud.google.com/storage/pricing/?hl=it
 PAGINA STATICA: https://replit.com/@ChiaraGismondi/Site#style.css
 PAGINA DINAMICA: https://replit.com/@ChiaraGismondi/GalleriaVirtuale-PHPWebServer#index.html
 
+https://replit.com/@ChiaraGismondi/galleriavirtuale-php-mvc#App/Models/Opera.php
 
