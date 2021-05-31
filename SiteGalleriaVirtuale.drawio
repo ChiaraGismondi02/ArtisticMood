@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T10:52:41.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="JgEFbF8EaNrXhvfOmcK1" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-31T10:55:55.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="kYxy8A89ESq75VCqPRjj" version="14.7.3" type="github">
   <diagram id="Umwfj8O-WKCtAQJJTBAG" name="Page-1">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="496" dy="275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,8 +187,8 @@
         <mxCell id="0ehrkUHEXGSYPb4bRDcg-85" value="&lt;font style=&quot;font-size: 9px&quot;&gt;1485&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="LhP0A_WK6g7MgIQ7nm3M-75" vertex="1">
           <mxGeometry x="220" y="210" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nF3YafZ9l1tr_P6bVvxC-1" value="&lt;div style=&quot;text-align: left ; font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;- Dipinto tempera su tela&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;- Ispirazione da statue di epoca classica&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;- Riflessi di luce ottenuti con l&#39;applicazione di oro&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="LhP0A_WK6g7MgIQ7nm3M-75" vertex="1">
-          <mxGeometry x="350" y="170" width="210" height="50" as="geometry" />
+        <mxCell id="nF3YafZ9l1tr_P6bVvxC-1" value="&lt;div style=&quot;text-align: left ; font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;- Tempera painting on canvas&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;- Inspiration from classical statues&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;- Light reflections obtained with the application of gold&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="LhP0A_WK6g7MgIQ7nm3M-75" vertex="1">
+          <mxGeometry x="340" y="170" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LhP0A_WK6g7MgIQ7nm3M-78" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="720" y="2300" width="580" height="380" as="geometry" />
